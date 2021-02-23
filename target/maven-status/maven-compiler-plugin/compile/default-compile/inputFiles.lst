@@ -1,0 +1,10 @@
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\handler\PersonRequestHandler.java
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\model\PersonActionsEnum.java
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\model\Person.java
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\model\PersonError.java
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\config\DynamoDBConfig.java
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\model\PersonResponse.java
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\model\PersonRequest.java
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\App.java
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\handler\PersonActionHandler.java
+C:\Saket\AWS\Lambda\workspace\LambdaDynamoMaven\src\main\java\com\saket\aws\lambdamvn\service\PersonService.java

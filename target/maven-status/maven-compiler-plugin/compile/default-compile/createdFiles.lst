@@ -1,0 +1,10 @@
+com\saket\aws\lambdamvn\model\Person.class
+com\saket\aws\lambdamvn\model\PersonResponse.class
+com\saket\aws\lambdamvn\service\PersonService.class
+com\saket\aws\lambdamvn\config\DynamoDBConfig.class
+com\saket\aws\lambdamvn\handler\PersonActionHandler.class
+com\saket\aws\lambdamvn\handler\PersonRequestHandler.class
+com\saket\aws\lambdamvn\App.class
+com\saket\aws\lambdamvn\model\PersonError.class
+com\saket\aws\lambdamvn\model\PersonActionsEnum.class
+com\saket\aws\lambdamvn\model\PersonRequest.class
